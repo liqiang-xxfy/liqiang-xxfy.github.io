@@ -12,5 +12,5 @@ https://liqiang-xxfy.github.io/data/initial_data.json
 
 {
     "menus": ,
-    "products": ""
+    "products": 
 }
